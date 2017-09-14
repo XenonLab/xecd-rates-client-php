@@ -11,7 +11,7 @@
         "rates"
     ],
     "homepage": "http://www.xe.com",
-    "license": "proprietary",
+    "license": "MPL-2.0",
     "require": {
         "php": ">=5.6.0",
         "xe/framework-base-client": "^0.1",
