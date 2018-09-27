@@ -36,7 +36,7 @@ XecdRatesClientAspectKernel::getInstance()->init([
     'cacheDir' => '/your/cache/directory',
 ]);
 
-$xecdRatesClient = XecdRatesClient::create(<YOUR_API_KEY>, <YOUR_API_SECRET>);
+$xecdRatesClient = XecdRatesClient::create(<YOUR_ACCOUNT_ID>, <YOUR_API_KEY>);
 
 try
 {
